@@ -1,4 +1,5 @@
 ## Project Name: Digital Currency
+### [Project Link](https://tiny-puffpuff-5ad3d9.netlify.app/)
 #### Technology I used
 1. React.js
 2. Tailwind.CSS
